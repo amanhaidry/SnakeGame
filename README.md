@@ -23,10 +23,10 @@ This is a classic Snake Game built using HTML, CSS, and JavaScript. The game is 
 4. Avoid colliding with the walls or the snake's own body, as this will end the game.
 5. Try to beat your high score, which is displayed at the top of the screen.
 
-## Live Demo
+## Play Game
 
 You can play the game live at the following link:
 
-[Live Demo](https://your-deployment-link.com)
+[Play Now](https://amanhaidry.github.io/SnakeGame/)
 
 Enjoy the game and have fun!
